@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DevendraP/Desktop/mlo_tr/mlflow_part1_condaEnv/mlruns/0/293fb58cfe2f4d99bcf230f79c08d5f4/artifacts
+end_time: 1658819385999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 293fb58cfe2f4d99bcf230f79c08d5f4
+run_uuid: 293fb58cfe2f4d99bcf230f79c08d5f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658819379487
+status: 3
+tags: []
+user_id: DevendraP
